@@ -10,11 +10,7 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,linux,mysql,git,nginx,redis" />
 </p>
 
-## 🏆 Featured Projects
-- [Advanced E-Commerce Platform](https://github.com/mgalal8866/ecommerce)
-- [Task Management System](https://github.com/mgalal8866/task-manager)
-- [CMS with Multi-Tenancy](https://github.com/mgalal8866/cms)
-
+ 
 ## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mgalal8866&show_icons=true&theme=dark&hide_border=true" />
